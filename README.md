@@ -1,46 +1,45 @@
-# Hey, I'm Talha Rasool
+# Hi, I'm Talha
 
-iOS Developer with 2+ years of experience building native apps using Swift, SwiftUI, and UIKit.
+## Senior Mobile Developer | 5+ Years Experience | AI Enthusiast
 
-I enjoy building products from scratch — from architecture and API integration to polishing the UI and automating deployments.
+I build cross-platform mobile applications and explore AI-powered development workflows.
 
-## What I Work With
+### Tech Stack
 
-**Mobile:** Swift, SwiftUI, UIKit, Cocoa Touch, SPM, Core Data
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Backend & Cloud:** Appwrite, Firebase, REST APIs, Node.js
+### Specializations
 
-**CI/CD:** GitHub Actions, Fastlane, TestFlight automation
+- Cross-platform mobile development (React Native, Flutter)
+- Native iOS & Android development (Swift, Kotlin)
+- Industrial IoT applications
+- AI-powered development workflows
+- CI/CD pipeline automation (GitHub Actions, Fastlane)
 
-**Other:** TypeScript, React Native, Dart/Flutter, Python, Kotlin
+### AI Development
 
-## Featured Projects
+- Building with **Claude Code** multi-agent systems
+- Automated code review and bug fixing workflows
+- AI-assisted development pipelines
 
-### Cove Days (iOS)
-A habit tracking app with card-based scheduling, recurring reminders, and image attachments. Built with SwiftUI + Appwrite backend. Includes automated CI/CD pipeline with Fastlane and GitHub Actions for TestFlight deployment.
+### Highlights
 
-**Tech:** Swift, SwiftUI, Appwrite, Fastlane, GitHub Actions
+- 5+ years in mobile development across startups and enterprise
+- Expert in React Native, Flutter, Swift, and Kotlin
+- Industrial control systems & IoT experience
+- Full CI/CD pipelines with Fastlane + GitHub Actions for automated TestFlight deployment
+- Shipped production apps on both App Store and Google Play
 
-### BG Remover
-Full-stack image background removal app powered by BiRefNet AI model.
+### Let's Connect
 
-**Tech:** TypeScript, Next.js, AI/ML
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8765226/talha-rasool)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talharasool)
 
-### Fribe SDK
-Cross-platform SDK for Fribe services — built both the iOS (Swift) and Android (Kotlin) versions.
-
-**Tech:** Swift, Kotlin
-
-### Socializer
-An iOS social networking app.
-
-**Tech:** Swift, UIKit
-
-## GitHub Stats
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talharasool&layout=compact&theme=default&hide=r)
-
-## Get In Touch
-
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8765226/talha-rasool)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/talharasool)

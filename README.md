@@ -20,12 +20,36 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+### Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/talharasool/color-palette-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=talharasool&repo=color-palette-app&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E56CF&icon_color=6E56CF&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<div align="center">
+
+| Project | Description | Tech | Link |
+|---------|-------------|------|------|
+| **ColorPal** | 500+ curated Material Design colors with palette generator, contrast checker & export tools | Next.js, TypeScript, Tailwind | [![Live](https://img.shields.io/badge/Live-materialui--app-blue?style=flat-square&logo=vercel)](https://materialui-app.vercel.app) |
+| **AgentForge** | Build production-ready Claude Code agent configs in minutes | TypeScript, AI | [![Repo](https://img.shields.io/badge/GitHub-agentforge-181717?style=flat-square&logo=github)](https://github.com/talharasool/agentforge) |
+| **BG Remover** | Full-stack AI background removal app using BiRefNet model | TypeScript, AI | [![Repo](https://img.shields.io/badge/GitHub-bg--remover-181717?style=flat-square&logo=github)](https://github.com/talharasool/bg-remover) |
 
 </div>
 
@@ -36,10 +60,10 @@
 ```swift
 let talha = Developer(
     experience: "5+ years",
-    focus: ["iOS", "Android", "Cross-Platform"],
+    focus: ["iOS", "Android", "Cross-Platform", "Web"],
     languages: ["Swift", "Kotlin", "TypeScript", "Dart", "Python"],
-    frameworks: ["SwiftUI", "UIKit", "React Native", "Flutter"],
-    tools: ["Fastlane", "GitHub Actions", "Firebase", "Appwrite"],
+    frameworks: ["SwiftUI", "UIKit", "React Native", "Flutter", "Next.js"],
+    tools: ["Fastlane", "GitHub Actions", "Firebase", "Appwrite", "Vercel"],
     currentlyBuilding: "AI-powered mobile development workflows"
 )
 ```
@@ -67,6 +91,7 @@ let talha = Developer(
 
 - 5+ years in mobile development across startups and enterprise
 - Expert in React Native, Flutter, Swift, and Kotlin
+- Built & deployed **[ColorPal](https://materialui-app.vercel.app)** — a 500+ color palette tool with 10K+ monthly visitors potential
 - Industrial control systems & IoT experience
 - Full CI/CD pipelines with Fastlane + GitHub Actions for automated TestFlight deployment
 - Shipped production apps on both App Store and Google Play
@@ -80,6 +105,7 @@ let talha = Developer(
 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8765226/talha-rasool)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talharasool)
+[![ColorPal](https://img.shields.io/badge/ColorPal-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://materialui-app.vercel.app)
 
 </div>
 
